@@ -1,14 +1,13 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { 
   Palette, 
   Code, 
   Cpu, 
   Video, 
-  ArrowRight, 
-  CheckCircle2, 
-  Users, 
-  Sparkles, 
+  ArrowRight,
+  CheckCircle2,
+  Users,
   ChevronRight,
   Menu,
   X,
